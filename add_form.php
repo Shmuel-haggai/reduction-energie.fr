@@ -12,7 +12,7 @@ function genererChaineAleatoire($longueur = 10) {
   return $chaineAleatoire;
 }
 
-$server='sc4shha6455_sms';
+$server='109.234.164.163';
 $username='sc4shha6455_sms';
 $password='Kiki2001@';
 $database = 'sc4shha6455_sms';

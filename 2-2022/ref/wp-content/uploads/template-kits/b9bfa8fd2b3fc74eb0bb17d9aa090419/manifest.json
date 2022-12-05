@@ -1,0 +1,1075 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Build a Rent- Construction Equipment Rental Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.3",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/bimberonline.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Solutions Details",
+            "screenshot": "screenshots\/solutions-details.jpg",
+            "source": "templates\/solutions-details.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/template-kit\/solutions-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Locations",
+            "screenshot": "screenshots\/locations.jpg",
+            "source": "templates\/locations.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/template-kit\/locations\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Equipments Details",
+            "screenshot": "screenshots\/equipments-details.jpg",
+            "source": "templates\/equipments-details.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/template-kit\/equipments-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Equipments",
+            "screenshot": "screenshots\/equipments.jpg",
+            "source": "templates\/equipments.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/template-kit\/equipments\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Partner",
+            "screenshot": "screenshots\/partner.jpg",
+            "source": "templates\/partner.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/template-kit\/partner\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Career Opportunities",
+            "screenshot": "screenshots\/career-opportunities.jpg",
+            "source": "templates\/career-opportunities.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/template-kit\/career-opportunities\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Solutions",
+            "screenshot": "screenshots\/solutions.jpg",
+            "source": "templates\/solutions.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/template-kit\/solutions\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/?elementor_library=404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/bimberonline.com\/buildarent\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.7.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.6.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "beard-worker-man-suit-construction-worker-in-safety-orange-helmet-e1632922707949.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/beard-worker-man-suit-construction-worker-in-safety-orange-helmet-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solutions-details.json",
+                    "name": "Solutions Details"
+                },
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 212879,
+            "dimensions": [
+                1500,
+                998
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KPTKUZ7"
+        },
+        {
+            "filename": "tractors-on-fresh-mowed-green-agricultural-grassland-e1632922672458.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/tractors-on-fresh-mowed-green-agricultural-grassland-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solutions-details.json",
+                    "name": "Solutions Details"
+                },
+                {
+                    "source": "templates\/solutions.json",
+                    "name": "Solutions"
+                }
+            ],
+            "filesize": 225730,
+            "dimensions": [
+                1400,
+                932
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4PU88DJ"
+        },
+        {
+            "filename": "agricultural-grape-harvesting-machine-e1632922573742.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/agricultural-grape-harvesting-machine-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solutions-details.json",
+                    "name": "Solutions Details"
+                }
+            ],
+            "filesize": 239025,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XV3FE7T"
+        },
+        {
+            "filename": "agriculture-e1632922555986.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/agriculture-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solutions-details.json",
+                    "name": "Solutions Details"
+                }
+            ],
+            "filesize": 235111,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RE8CWJ6"
+        },
+        {
+            "filename": "image-section-21-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/image-section-21-min.png",
+            "templates": [
+                {
+                    "source": "templates\/solutions-details.json",
+                    "name": "Solutions Details"
+                },
+                {
+                    "source": "templates\/equipments-details.json",
+                    "name": "Equipments Details"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1350,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hardware-store-assortment-shelf-with-drills-e1632923026704.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/hardware-store-assortment-shelf-with-drills-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 186198,
+            "dimensions": [
+                1900,
+                1268
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJJNAQF"
+        },
+        {
+            "filename": "drill-press-in-building-store-e1632923010457.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/drill-press-in-building-store-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 223311,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-W5Z9DJX"
+        },
+        {
+            "filename": "worker-in-the-shop-with-building-tools-e1632922523302.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/worker-in-the-shop-with-building-tools-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 228510,
+            "dimensions": [
+                1400,
+                934
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J3MQ6RB"
+        },
+        {
+            "filename": "warehouse-construction-site-building-a-new-industrial-hall.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/warehouse-construction-site-building-a-new-industrial-hall-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                }
+            ],
+            "filesize": 226876,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HDUNFCC"
+        },
+        {
+            "filename": "hydraulic-crusher-and-track-type-excavator-backhoe-machinery-working-e1632922832257.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/hydraulic-crusher-and-track-type-excavator-backhoe-machinery-working-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/equipments-details.json",
+                    "name": "Equipments Details"
+                }
+            ],
+            "filesize": 227802,
+            "dimensions": [
+                1200,
+                799
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GP5L994"
+        },
+        {
+            "filename": "industrial-motor-grader-and-backhoe-excavator-on-highway-construction-site-e1632922902672.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/industrial-motor-grader-and-backhoe-excavator-on-highway-construction-site-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/equipments-details.json",
+                    "name": "Equipments Details"
+                }
+            ],
+            "filesize": 194301,
+            "dimensions": [
+                1400,
+                934
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5HR7EG"
+        },
+        {
+            "filename": "industrial-backhoe-excavator-loader-and-bulldozer-machinery-on-construction-site-e1632922888370.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/industrial-backhoe-excavator-loader-and-bulldozer-machinery-on-construction-site-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/equipments-details.json",
+                    "name": "Equipments Details"
+                }
+            ],
+            "filesize": 213232,
+            "dimensions": [
+                1400,
+                934
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPHTAFN"
+        },
+        {
+            "filename": "unloading-wooden-beams-from-truck-on-construction-site-for-building-a-house-e1632922923470.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/unloading-wooden-beams-from-truck-on-construction-site-for-building-a-house-800x496.jpg",
+            "templates": [
+                {
+                    "source": "templates\/equipments-details.json",
+                    "name": "Equipments Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 244925,
+            "dimensions": [
+                1500,
+                929
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RTUJCN9"
+        },
+        {
+            "filename": "image-section-23-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/image-section-23-min-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/equipments.json",
+                    "name": "Equipments"
+                }
+            ],
+            "filesize": 46467,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bulldozer-YCA9QN"
+        },
+        {
+            "filename": "image-section-26-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/image-section-26-min-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/equipments.json",
+                    "name": "Equipments"
+                }
+            ],
+            "filesize": 31780,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lawn-mower-FG9APL"
+        },
+        {
+            "filename": "image-section-24-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/image-section-24-min-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/equipments.json",
+                    "name": "Equipments"
+                }
+            ],
+            "filesize": 47865,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cartoon-excavator-4Y887K"
+        },
+        {
+            "filename": "image-section-25-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/image-section-25-min-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/equipments.json",
+                    "name": "Equipments"
+                }
+            ],
+            "filesize": 54802,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/portable-generator-yellow-VG3YP2M"
+        },
+        {
+            "filename": "image-section-27-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/image-section-27-min-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/equipments.json",
+                    "name": "Equipments"
+                }
+            ],
+            "filesize": 46416,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/concrete-portable-mixer-AJQLPZ"
+        },
+        {
+            "filename": "image-section-28-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/image-section-28-min-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/equipments.json",
+                    "name": "Equipments"
+                }
+            ],
+            "filesize": 42831,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cordless-drill-QJF3WK"
+        },
+        {
+            "filename": "worker-and-the-construction-e1632922791114.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/worker-and-the-construction-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 192038,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RAZVUY5"
+        },
+        {
+            "filename": "construction-team-work-e1632922723533.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/construction-team-work-800x536.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 180921,
+            "dimensions": [
+                1800,
+                1206
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8GJ3NZT"
+        },
+        {
+            "filename": "construction-site-1-e1632922776261.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/construction-site-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 234146,
+            "dimensions": [
+                1400,
+                934
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4CGM49X"
+        },
+        {
+            "filename": "engineers-agreeing-on-construction-plan-with-handshake.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/engineers-agreeing-on-construction-plan-with-handshake-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 160570,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CVEEAER"
+        },
+        {
+            "filename": "two-partners-working-in-the-plant-e1632922454371.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/two-partners-working-in-the-plant-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 255160,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GPAWLU5"
+        },
+        {
+            "filename": "little-girl-working-at-construction-family-craftsman-workshop-job-business-and-career-concept-e1632922689728.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/little-girl-working-at-construction-family-craftsman-workshop-job-business-and-career-concept-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 177235,
+            "dimensions": [
+                1600,
+                1066
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GR88ERP"
+        },
+        {
+            "filename": "image-section-20-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/image-section-20-min.png",
+            "templates": [
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 1350,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "handsome-professional-businessman-standing-near-construction-site.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/handsome-professional-businessman-standing-near-construction-site-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 117236,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-72DMY5B"
+        },
+        {
+            "filename": "construction-of-building-e1632922763713.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/construction-of-building-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 205364,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H8EYM6F"
+        },
+        {
+            "filename": "construction-vehicles-backhoe-and-front-loader--e1632922861710.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/construction-vehicles-backhoe-and-front-loader--800x566.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 224278,
+            "dimensions": [
+                1300,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GNF4M6M"
+        },
+        {
+            "filename": "image-section-22-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/image-section-22-min.png",
+            "templates": [
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1350,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hvac-worker-tools-box.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/hvac-worker-tools-box-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solutions.json",
+                    "name": "Solutions"
+                }
+            ],
+            "filesize": 197359,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GSXME6R"
+        },
+        {
+            "filename": "mobile-stacker-handler-in-action-at-a-container-terminal--e1632922643918.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/mobile-stacker-handler-in-action-at-a-container-terminal--800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solutions.json",
+                    "name": "Solutions"
+                }
+            ],
+            "filesize": 232010,
+            "dimensions": [
+                1500,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AC9MF4F"
+        },
+        {
+            "filename": "complete-mechanized-demolition-of-a-building-e1632922616491.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/complete-mechanized-demolition-of-a-building-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solutions.json",
+                    "name": "Solutions"
+                }
+            ],
+            "filesize": 233932,
+            "dimensions": [
+                1300,
+                866
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-W45YH39"
+        },
+        {
+            "filename": "hand-of-working-cutting-copper-pipe-plumbing.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/hand-of-working-cutting-copper-pipe-plumbing-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solutions.json",
+                    "name": "Solutions"
+                }
+            ],
+            "filesize": 77101,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CRBWS6Q"
+        },
+        {
+            "filename": "focus-construction-worker-on-construction-site.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/focus-construction-worker-on-construction-site-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 246753,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9JYZ8NP"
+        },
+        {
+            "filename": "confident-handyman-in-a-hardware-store-e1632922937527.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/confident-handyman-in-a-hardware-store-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 205622,
+            "dimensions": [
+                1500,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KFVQBRP"
+        },
+        {
+            "filename": "wood-work-construction-e1632923046664.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/wood-work-construction-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 166483,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P2MDEMS"
+        },
+        {
+            "filename": "construction-background-e1632922952745.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/construction-background-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 159585,
+            "dimensions": [
+                1500,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z6ZLCAH"
+        },
+        {
+            "filename": "construction-bull-dozer--e1632922963345.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/construction-bull-dozer--800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 227602,
+            "dimensions": [
+                1500,
+                1124
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TV6HLP2"
+        },
+        {
+            "filename": "construction-site.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/construction-site-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 186864,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-A7KTAZ3"
+        },
+        {
+            "filename": "logo-build-a-rent-04-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/logo-build-a-rent-04-min.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2118,
+            "dimensions": [
+                300,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-build-a-rent-03-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/buildarent\/wp-content\/uploads\/sites\/118\/2021\/09\/logo-build-a-rent-03-min.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 2243,
+            "dimensions": [
+                300,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
